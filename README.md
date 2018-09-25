@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 mybatis-generator-gui
 ==============
 
@@ -57,3 +58,7 @@ Eclipse or IntelliJ IDEA中启动, 找到```com.zzg.mybatis.generator.MainUI```�
 Licensed under the Apache 2.0 License
 
 Copyright 2017 by Owen Zou
+=======
+# mybatis
+sql
+>>>>>>> 8c0f955e1b408e6cfb3c72c3e9ccad43e60004fe
